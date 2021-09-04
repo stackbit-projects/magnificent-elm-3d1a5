@@ -131,5 +131,6 @@
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
-    }
+    },
+    "domain": "https://magnificent-elm-3d1a5.netlify.app"
 }
